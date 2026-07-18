@@ -9,14 +9,7 @@ Passionate about building intelligent AI-powered applications and scalable web s
 
 # 💫 About Me
 
-🚀 AI Engineer & Full Stack Developer from India
-
-- 🤖 Building AI-powered applications
-- 🌐 Developing scalable web applications using React, FastAPI and Node.js
-- 🔬 Interested in Machine Learning, Computer Vision, LLMs and AI Agents
-- 📚 Exploring RAG, Vector Databases and Semantic Search
-- 💡 Love solving real-world problems through AI
-- 🏆 Open to AI Engineer, Full Stack Developer and Software Engineer opportunities
+<p>I'm an AI Engineer and Full Stack Developer passionate about building intelligent applications that solve real-world problems. I enjoy combining AI, Machine Learning, and modern web technologies to create scalable and impactful solutions. I'm always learning, exploring new technologies, and turning ideas into reality. </p>
 
 ---
 
