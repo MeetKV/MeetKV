@@ -7,7 +7,7 @@ Passionate about building intelligent AI-powered applications and scalable web s
 
 ---
 
-# 💫 About Me
+ 💫 About Me
 
 <p>I'm an AI Engineer and Full Stack Developer passionate about building intelligent applications that solve real-world problems. I enjoy combining AI, Machine Learning, and modern web technologies to create scalable and impactful solutions. I'm always learning, exploring new technologies, and turning ideas into reality. </p>
 
