@@ -1,16 +1,8 @@
-
-# Hi 👋, I'm Meet Kathrotiya
-
-<h3 align="center">AI Engineer • Full Stack Developer • Machine Learning Enthusiast</h3>
+<h1 align="center">Hi 👋, I'm Meet Kathrotiya</h1>
+<h3 align="center">AI Engineer • Full Stack Developer • Open Source Enthusiast</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=AI+Engineer;Full+Stack+Developer;FastAPI+%7C+React+Developer;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=MeetKV&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/MeetKV?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/MeetKV?affiliations=OWNER&style=for-the-badge"/>
+Passionate about building intelligent AI-powered applications and scalable web solutions.
 </p>
 
 ---
@@ -30,11 +22,10 @@
 
 # 🌐 Connect With Me
 
-> Replace these links with your own.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meet-kathrotiya-13100b30b/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel)](https://your-portfolio.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:meetkathrotiya280@gmail.com)
 
 ---
 
@@ -108,42 +99,5 @@ AI-powered Mathematical Equation Processing Framework
 - Semantic Search
 - ChromaDB Integration
 - FastAPI + React
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MeetKV&show_icons=true&theme=tokyonight"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MeetKV&layout=compact&theme=tokyonight"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MeetKV&theme=tokyonight"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=MeetKV&theme=tokyonight&row=1&column=7"/>
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MeetKV&theme=tokyo-night"/>
-</p>
-
----
-
-# ✍️ Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
 
 ⭐ Thanks for visiting my profile!
