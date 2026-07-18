@@ -33,7 +33,7 @@ Passionate about building intelligent AI-powered applications and scalable web s
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## 🎨 Frontend
+### 🎨 Frontend
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,7 +45,7 @@ Passionate about building intelligent AI-powered applications and scalable web s
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery)
 ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform)
 
-## ⚙️ Backend
+### ⚙️ Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express)
@@ -54,14 +54,14 @@ Passionate about building intelligent AI-powered applications and scalable web s
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm)
 
-## 🗄️ Databases
+### 🗄️ Databases
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase)
 
-## 🤖 AI / Machine Learning
+### 🤖 AI / Machine Learning
 
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
@@ -71,7 +71,7 @@ Passionate about building intelligent AI-powered applications and scalable web s
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 
-## ☁️ DevOps
+### ☁️ DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -80,7 +80,7 @@ Passionate about building intelligent AI-powered applications and scalable web s
 
 ---
 
-# 🚀 Featured Project
+## 🚀 Featured Project
 
 ## EquationAI
 
