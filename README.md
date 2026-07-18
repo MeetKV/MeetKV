@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Meet Kathrotiya</h1>
-<h3 align="center">AI Engineer • Full Stack Developer • Open Source Enthusiast</h3>
+<h1 align="left">Meet Kathrotiya</h1>
+<h3 align="left">AI Engineer • Full Stack Developer • Open Source Enthusiast</h3>
 
-<p align="center">
+<p align="left">
 Passionate about building intelligent AI-powered applications and scalable web solutions.
 </p>
 
