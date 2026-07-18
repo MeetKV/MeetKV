@@ -7,13 +7,13 @@ Passionate about building intelligent AI-powered applications and scalable web s
 
 ---
 
- 💫 About Me
+## 💫 About Me
 
 <p>I'm an AI Engineer and Full Stack Developer passionate about building intelligent applications that solve real-world problems. I enjoy combining AI, Machine Learning, and modern web technologies to create scalable and impactful solutions. I'm always learning, exploring new technologies, and turning ideas into reality. </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/meet-kathrotiya-13100b30b/)
@@ -22,9 +22,9 @@ Passionate about building intelligent AI-powered applications and scalable web s
 
 ---
 
-# 💻 Tech Stack
+## 💻 Tech Stack
 
-## 💻 Languages
+### 💻 Languages
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
